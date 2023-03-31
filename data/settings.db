@@ -1,0 +1,13 @@
+{"key":"levels.hideElevation","value":"1","_id":"9qQhcjr0IHJLC8Un"}
+{"key":"betterroofs.roomPreview","value":"true","_id":"DuXAMBU1q45JLCuL"}
+{"key":"levels.preciseTokenVisibility","value":"true","_id":"FhpVUWJ4y7vIqVVl"}
+{"key":"levels.fogHiding","value":"false","_id":"KfzSwsYWf4T1dvyu"}
+{"key":"core.permissions","value":"{\"ACTOR_CREATE\":[3,4],\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"DRAWING_CREATE\":[2,3,4],\"ITEM_CREATE\":[3,4],\"FILES_BROWSE\":[2,3,4],\"FILES_UPLOAD\":[3,4],\"JOURNAL_CREATE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4],\"NOTE_CREATE\":[2,3,4],\"SETTINGS_MODIFY\":[3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"TOKEN_CREATE\":[3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"WALL_DOORS\":[1,2,3,4]}","_id":"Ns9RpoDZNQqjofRY"}
+{"key":"vtta-ddb.release-notes-version","value":"\"2.0.11\"","_id":"ektDJwXxRfCcJqtv"}
+{"key":"core.moduleConfiguration","value":"{\"betterroofs\":true,\"levels\":true,\"lib-wrapper\":true,\"perfect-vision\":true,\"torch\":true,\"dd-import\":true,\"vtta-core\":true,\"vtta-ddb\":true,\"wall-height\":true}","_id":"f04N2YATnIrOE78U"}
+{"key":"core.time","value":"0","_id":"fhIhCqWc1och4hhI"}
+{"key":"core.nue.shownTips","value":"true","_id":"foazAIjbiJQSuCkc"}
+{"key":"dnd5e.systemMigrationVersion","value":"\"1.5.7\"","_id":"lE6pe8RBixBTewym"}
+{"key":"wall-height.migrateOnStartup","value":"false","_id":"pOntLP3pHRo1abX3"}
+{"key":"wall-height.migrateTokenHeight","value":"false","_id":"pTY816d9bmzDhxFt"}
+{"key":"levels.revealTokenInFog","value":"true","_id":"wqwHudAJ40srs3Un"}
